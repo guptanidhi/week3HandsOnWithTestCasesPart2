@@ -1,0 +1,15 @@
+{
+  "name": "handsonsolutionweek3part2",
+  "version": "1.0.0",
+  "description": "Week 3 handsonsolutions part 2 with test cases",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "author": "Nidhi Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
